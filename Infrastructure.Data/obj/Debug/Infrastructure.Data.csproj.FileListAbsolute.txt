@@ -1,0 +1,15 @@
+C:\Users\André Moreno\source\repos\SimpleCRUD\SimpleCRUD\SimpleCRUD\SimpleCRUD\Infrastructure.Data\obj\Debug\Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\André Moreno\source\repos\SimpleCRUD\SimpleCRUD\SimpleCRUD\SimpleCRUD\Infrastructure.Data\obj\Debug\Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\André Moreno\source\repos\SimpleCRUD\SimpleCRUD\SimpleCRUD\SimpleCRUD\Infrastructure.Data\bin\Debug\Infrastructure.Data.dll.config
+C:\Users\André Moreno\source\repos\SimpleCRUD\SimpleCRUD\SimpleCRUD\SimpleCRUD\Infrastructure.Data\bin\Debug\Infrastructure.Data.dll
+C:\Users\André Moreno\source\repos\SimpleCRUD\SimpleCRUD\SimpleCRUD\SimpleCRUD\Infrastructure.Data\bin\Debug\Infrastructure.Data.pdb
+C:\Users\André Moreno\source\repos\SimpleCRUD\SimpleCRUD\SimpleCRUD\SimpleCRUD\Infrastructure.Data\bin\Debug\Domain.dll
+C:\Users\André Moreno\source\repos\SimpleCRUD\SimpleCRUD\SimpleCRUD\SimpleCRUD\Infrastructure.Data\bin\Debug\EntityFramework.dll
+C:\Users\André Moreno\source\repos\SimpleCRUD\SimpleCRUD\SimpleCRUD\SimpleCRUD\Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\André Moreno\source\repos\SimpleCRUD\SimpleCRUD\SimpleCRUD\SimpleCRUD\Infrastructure.Data\bin\Debug\Domain.pdb
+C:\Users\André Moreno\source\repos\SimpleCRUD\SimpleCRUD\SimpleCRUD\SimpleCRUD\Infrastructure.Data\bin\Debug\Domain.dll.config
+C:\Users\André Moreno\source\repos\SimpleCRUD\SimpleCRUD\SimpleCRUD\SimpleCRUD\Infrastructure.Data\bin\Debug\EntityFramework.xml
+C:\Users\André Moreno\source\repos\SimpleCRUD\SimpleCRUD\SimpleCRUD\SimpleCRUD\Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\André Moreno\source\repos\SimpleCRUD\SimpleCRUD\SimpleCRUD\SimpleCRUD\Infrastructure.Data\obj\Debug\Infrastructure.Data.csproj.CopyComplete
+C:\Users\André Moreno\source\repos\SimpleCRUD\SimpleCRUD\SimpleCRUD\SimpleCRUD\Infrastructure.Data\obj\Debug\Infrastructure.Data.dll
+C:\Users\André Moreno\source\repos\SimpleCRUD\SimpleCRUD\SimpleCRUD\SimpleCRUD\Infrastructure.Data\obj\Debug\Infrastructure.Data.pdb

@@ -1,0 +1,28 @@
+﻿@model IList<Domain.Entities.Usuario>
+
+<div class="row">
+    <a href="@Url.Action("Edit", "Home")">Cadastrar usuário</a>
+    <table id="example" class="table table-striped table-bordered" style="width:100%">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Email</th>
+                <th>Telefone</th>
+                <th>Editar</th>
+                <th>Deletar</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Nome</td>
+                    <td>@item.Email</td>
+                    <td>@item.Telefone</td>
+                    <td><a href="@Url.Action("Edit", "Home" , new { id=item.UsuarioId })">Editar</a></td>
+                    <td><a href="@Url.Action("Delete", "Home", new { id = item.UsuarioId })">Deletar</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
